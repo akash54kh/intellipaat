@@ -22,3 +22,6 @@ c = s1 * s2
 print('Distance: {}, Speed Increment: {}, Time Variation: {}'.format(d, s, t))
 print('Actual: {}km/hr, Virtual: {}km/hr'.format(s1, s2))
 print('A = 1, B = {}, C = -{}'.format(s, c))
+
+print("A train travels {} km. If speed increases by {} kmph, the journey takes {} hours less. Find the original speed!".format(d, s, t))
+
