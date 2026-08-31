@@ -23,8 +23,8 @@ def prime_factors(n):
 
 
 # Example usage:
-num1 = 72
-num2 = 108
+num1 = 46
+num2 = 78
 print(f"Prime factors of {num1}: {prime_factors(num1)}")
 print(f"Prime factors of {num2}: {prime_factors(num2)}")
 
