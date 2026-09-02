@@ -1,7 +1,7 @@
 import math
 import random
 
-cube_tuple = tuple(i**3 for i in range(1, 201))
+cube_tuple = tuple(i**3 for i in range(1, 100))
 
 # 1. Generate a random integer between 1 and 1000
 random_number = random.choice(cube_tuple)
