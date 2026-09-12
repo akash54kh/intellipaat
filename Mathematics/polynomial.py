@@ -1,7 +1,7 @@
 import random
 import numpy as np
 
-degree = [3]
+degree = [1, 2, 3]
 My_type = random.choice(degree)
 
 random_x = random.randint(-10, 10)
